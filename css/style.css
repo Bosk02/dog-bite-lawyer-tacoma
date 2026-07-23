@@ -202,6 +202,12 @@ End Variables
   padding-bottom: 20px;
 }
 
+.card-h-three-centered {  /* centers h3 tag  */
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+
 
 /* Start style for  footer in the white cards */ 
 .card-footer {           
